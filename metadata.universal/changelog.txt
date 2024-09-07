@@ -1,3 +1,6 @@
+[B]v5.5.15[/B]
+- fixed: remove non-working functions
+
 [B]v5.5.14[/B]
 - Translations updates from Weblate
 
