@@ -5,81 +5,82 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: XBMC Addons\n"
-"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Kodi Translation Team\n"
-"Language-Team: Esperanto (http://www.transifex.com/projects/p/xbmc-addons/language/eo/)\n"
+"PO-Revision-Date: 2024-10-06 14:20+0000\n"
+"Last-Translator: Jakub Fabijan <animatorzpolski@gmail.com>\n"
+"Language-Team: Esperanto <https://kodi.weblate.cloud/projects/kodi-add-ons-information-providers/metadata-universal/eo/>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7.2\n"
 
 msgctxt "Addon Summary"
 msgid "Universal Movie Scraper"
-msgstr ""
+msgstr "Universala filma skrapilo"
 
 msgctxt "Addon Description"
 msgid "Universal Scraper is currently the most customizable scraper by collecting information from the following supported sites: IMDb, themoviedb.org, Rotten Tomatoes, OFDb.de, fanart.tv, port.hu. This scraper is currently the flagship of the Team-Kodi scrapers. The initial search can be done either on TMDb or IMDb (according to the settings), but following that it can be set field by field that from which site you want that specific information."
-msgstr ""
+msgstr "Universala filma skrapilo estas aktuale la plej tajlorebla skrapilo kolektanta informojn de la sekvantaj retejoj: IMDb, themoviedb.org, Rotten Tomatoes, OFDB.de, fanart.tv, port.hu. Tiu skrapilo estas aktuale la ĉefa el skrapiloj de Team-Kodi. La komenca serĉo povas esti farita aŭ sur TMDb aŭ IMDb (laŭ la agordoj), sed por ĉiu kampo vi povas elekti de kiu retejo vi volas specifan informon."
 
 msgctxt "#30001"
 msgid "Enable fanart from themoviedb.org"
-msgstr ""
+msgstr "Ŝalti fanarton de themoviedb.org"
 
 msgctxt "#30002"
 msgid "Enable posters from themoviedb.org"
-msgstr ""
+msgstr "Ŝalti afiŝojn de themoviedb.org"
 
 # empty string with id 30003
 msgctxt "#30004"
 msgid "Enable posters from MoviePosterDB"
-msgstr ""
+msgstr "Ŝalti afiŝojn de MoviePosterDB"
 
 msgctxt "#30005"
 msgid "Get Trailers directly from YouTube"
-msgstr ""
+msgstr "Akiri antaŭprezentaĵojn rekte de YouTube"
 
 # empty string with id 30006
 # empty string with id 30007
 msgctxt "#30008"
 msgid "Preferred Title Language from"
-msgstr ""
+msgstr "Preferata titola lingvo de"
 
 msgctxt "#30009"
 msgid "Enable trailers from themoviedb.org"
-msgstr ""
+msgstr "Ŝalti antaŭprezentaĵojn de themoviedb.org"
 
 # empty string with id 30010
 msgctxt "#30011"
 msgid "Poster"
-msgstr ""
+msgstr "Afiŝoj"
 
 msgctxt "#30012"
 msgid "Trailers"
-msgstr ""
+msgstr "Antaŭprezentaĵoj"
 
 msgctxt "#30013"
 msgid "Get Set (Collection) Name from themoviedb.org"
-msgstr ""
+msgstr "Akiri nomo de serio (kolekto) de themoviedb.org"
 
 msgctxt "#30014"
 msgid "Get Plot from"
-msgstr ""
+msgstr "Akiri intrigon de"
 
 msgctxt "#30015"
 msgid "Get Cast / Directors / Writers From"
-msgstr ""
+msgstr "Akiri aktoraron / reĝisorojn / verkistojn de"
 
 msgctxt "#30016"
 msgid "Plot Sources"
-msgstr ""
+msgstr "Fontoj de intrigo"
 
 # empty strings from id 30017 to 30019
 msgctxt "#30020"
 msgid "Preferred Plot Language"
-msgstr ""
+msgstr "Preferata lingvo de intrigo"
 
 msgctxt "#30021"
 msgid "Get Default Ratings from"
